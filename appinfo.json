@@ -1,0 +1,10 @@
+{
+	"title": "haXe Demo",
+	"type": "pdk",
+	"main": "Main",
+	"id": "com.eclecticdesignstudio.haxedemo",
+	"version": "0.1.0",
+	"vendor": "Eclectic Design Studio",
+	"icon" : "icon.png",
+	"requiredMemory": 20
+}
