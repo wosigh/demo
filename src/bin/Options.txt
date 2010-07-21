@@ -1,0 +1,7 @@
+cpp
+haxe_205
+hxcpp
+nme
+true
+webos
+C:\Development\haxe\hxcpp/

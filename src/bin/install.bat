@@ -1,0 +1,1 @@
+palm-install com.eclecticdesignstudio.haxedemo_0.1.0_all.ipk
